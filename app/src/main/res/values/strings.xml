@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">AppDebts</string>
+    <string name="sucess_conection">Conexão realizada com sucesso!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="PaymentDate">Payment</string>
+    <string name="Pay">Pay</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="optionPay">Paid</string>
+    <string name="optionNoPay">To Pay</string>
+    <string name="textPayorPayment">Payment/Pay</string>
+    <string name="textValue">Value</string>
+    <string name="ok">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="titleInsert">New Debt</string>
+    <string name="newCategoryTitle">Insert new Category</string>
+    <string name="textViewPay">Pay</string>
+    <string name="change_debt">Change Debt</string>
+    <string name="payment_text">Payment</string>
+
 </resources>
